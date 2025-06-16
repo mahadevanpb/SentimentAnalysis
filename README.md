@@ -1,2 +1,2 @@
-# SentimentAnalysis
-Market News Sentiment Analyzer
+# Market News Sentiment Analyzer
+
